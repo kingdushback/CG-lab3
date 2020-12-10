@@ -1,0 +1,15 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\Cerge\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(257,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Cerge\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(257,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Cerge\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(257,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OpenGLrememberProj.vcxproj -> C:\Users\Cerge\Downloads\grafika_lab2-master\Release\OpenGLrememberProj.exe
